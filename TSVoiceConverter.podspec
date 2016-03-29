@@ -16,6 +16,6 @@ Pod::Spec.new do |s|
   s.source           = { :git => "https://github.com/hilen/TSVoiceConverter.git", :tag => s.version.to_s }
   s.platform     = :ios, '8.0'
   s.requires_arc = false
-  s.source_files = ['Sources/*.{h,mm}','Sources/**/*.{h,mm}','Sources/TSVoiceConverter.swift']
+  s.source_files = 'Sources/**/*'
   s.vendored_libraries = "Sources/**/*.a"
 end
