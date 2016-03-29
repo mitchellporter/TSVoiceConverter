@@ -9,6 +9,6 @@ EXTERNAL SOURCES:
     :path: ../
 
 SPEC CHECKSUMS:
-  TSVoiceConverter: 1bb567f0310a2f80711d1e011e150bc616212b28
+  TSVoiceConverter: 850f7d55274d7ed6c39fde1fd436716d1166d0ba
 
 COCOAPODS: 0.39.0
